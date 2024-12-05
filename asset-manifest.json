@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BepImaJep/COGS125.git/static/css/main.fed307a4.css",
+    "main.js": "/BepImaJep/COGS125.git/static/js/main.597c7e67.js",
+    "index.html": "/BepImaJep/COGS125.git/index.html",
+    "main.fed307a4.css.map": "/BepImaJep/COGS125.git/static/css/main.fed307a4.css.map",
+    "main.597c7e67.js.map": "/BepImaJep/COGS125.git/static/js/main.597c7e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fed307a4.css",
+    "static/js/main.597c7e67.js"
+  ]
+}
