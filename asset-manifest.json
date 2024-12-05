@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/COGS125/static/css/main.fed307a4.css",
-    "main.js": "/COGS125/static/js/main.c6064233.js",
+    "main.js": "/COGS125/static/js/main.24cb51a4.js",
     "index.html": "/COGS125/index.html",
     "main.fed307a4.css.map": "/COGS125/static/css/main.fed307a4.css.map",
-    "main.c6064233.js.map": "/COGS125/static/js/main.c6064233.js.map"
+    "main.24cb51a4.js.map": "/COGS125/static/js/main.24cb51a4.js.map"
   },
   "entrypoints": [
     "static/css/main.fed307a4.css",
-    "static/js/main.c6064233.js"
+    "static/js/main.24cb51a4.js"
   ]
 }
